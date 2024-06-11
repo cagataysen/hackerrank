@@ -6,7 +6,7 @@ import java.util.*;
 import java.util.concurrent.*;
 import java.util.regex.*;
 
-class Result {
+class SimpleArraySum {
 
     /*
      * Complete the 'simpleArraySum' function below.
@@ -26,7 +26,7 @@ class Result {
 
 }
 
-public class Solution {
+public class MainSimpleArraySum {
     public static void main(String[] args) throws IOException {
         BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
         BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter(System.getenv("OUTPUT_PATH")));
