@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Simple-Array-Sum" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Staircase" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Reverse-Array" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/plus-minus-B" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
