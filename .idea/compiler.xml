@@ -9,6 +9,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="Mini-max-sum" target="19" />
       <module name="plus-minus-B" target="19" />
     </bytecodeTargetLevel>
   </component>
