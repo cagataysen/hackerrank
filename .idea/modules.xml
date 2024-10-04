@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/A-Very-Big-Sum-Problem/A-Very-Big-Sum-Problem.iml" filepath="$PROJECT_DIR$/A-Very-Big-Sum-Problem/A-Very-Big-Sum-Problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank.iml" />
     </modules>
   </component>
