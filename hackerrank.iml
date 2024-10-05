@@ -16,6 +16,7 @@
       <sourceFolder url="file://$MODULE_DIR$/plus-minus-B" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Sparse-Arrays" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Time-Conversion" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Lonely-Integer" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
