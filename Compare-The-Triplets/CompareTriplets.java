@@ -17,6 +17,7 @@ class CompareTriplets {
      *  2. INTEGER_ARRAY b
      */
 
+    /*
     public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
 
         int totalA = 0, totalB = 0;
@@ -50,6 +51,31 @@ class CompareTriplets {
 
 
     }
+*/
 
+    public static List<Integer> compareTriplets(List<Integer> a, List<Integer> b) {
+
+        int pointAlice = 0;
+        int pointBob = 0;
+
+        for(int i = 0; i < 3; i++){
+
+            if (a.get(i) > b.get(i)) {
+                pointAlice++;
+            }
+            else if (a.get(i) < b.get(i)) {
+                pointBob++;
+            }
+            else {
+                continue;
+            }
+        }
+
+        List<Integer> result = new ArrayList<>(2);
+        result.add(pointAlice);
+        result.add(pointBob);
+
+        return result;
+    }
 }
 
