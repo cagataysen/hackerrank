@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Birthday-Cake-Candles/Birthday-Cake-Candles.iml" filepath="$PROJECT_DIR$/Birthday-Cake-Candles/Birthday-Cake-Candles.iml" />
-      <module fileurl="file://$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" filepath="$PROJECT_DIR$/FizzBuzz/FizzBuzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/hackerrank.iml" filepath="$PROJECT_DIR$/hackerrank.iml" />
     </modules>
   </component>
