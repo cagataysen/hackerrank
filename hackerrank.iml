@@ -21,6 +21,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Birthday-Cake-Candles" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Pangrams" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/CamelCase" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Bill-Divison" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
