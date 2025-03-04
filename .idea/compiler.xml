@@ -12,6 +12,7 @@
       <module name="Beautiful-Days-At-Movies" target="19" />
       <module name="Mini-max-sum" target="19" />
       <module name="plus-minus-B" target="19" />
+      <module name="tree_height_of_a_binary_tree" target="19" />
     </bytecodeTargetLevel>
   </component>
 </project>

@@ -25,6 +25,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Beautiful-Days-At-Movies" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Day-Of-The-Programmer" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Java-substring" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tree_height_of_a_binary_tree" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
